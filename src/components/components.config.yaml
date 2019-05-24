@@ -1,0 +1,4 @@
+context:
+  title: Fractal
+  description: Etiam et vulputate libero. Suspendisse enim metus, iaculis id nisi nec, egestas laoreet metus. Nullam risus neque, dapibus a tortor sit amet, convallis dapibus risus.
+  theme_colors: ['white', 'pale-blue', 'pale-blue-green', 'pale-blue-gray', 'pale-blue-light', 'pale-brown', 'pale-brown-yellow', 'pale-green', 'pale-gray-dark', 'pale-gray-white', 'pale-gray-light', 'pale-mustard', 'pale-purple', 'pale-purple-gray', 'pale-red', 'vivid-blue', 'vivid-blue-dark', 'vivid-blue-gray', 'vivid-blue-sky', 'vivid-green', 'vivid-green-dark', 'vivid-gray', 'vivid-gray-dark', 'vivid-khaki', 'vivid-mustard', 'vivid-orange', 'vivid-purple', 'vivid-purple-dark', 'vivid-red-light', 'vivid-rose', 'vivid-green-waste', 'vivid-green-blue', 'pale-black', 'blue', 'gray']

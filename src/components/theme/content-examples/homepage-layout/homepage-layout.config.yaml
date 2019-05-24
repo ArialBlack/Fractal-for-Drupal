@@ -1,0 +1,9 @@
+label: 'Homepage layout'
+context:
+  content:
+    center: '$text'
+variants:
+- name: 'Ch'
+  context:
+    content:
+      center: '$text--ch'

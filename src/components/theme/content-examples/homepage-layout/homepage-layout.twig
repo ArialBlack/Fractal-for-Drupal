@@ -1,0 +1,14 @@
+{%
+  set classes = [
+    'container',
+    'container--homepage'
+  ]
+%}
+
+<div {{ attributes.addClass(classes) }}>
+  <div class="container__inner">
+    <div class="homepage-layout">
+      {{ content.center }}
+    </div>
+  </div>
+</div>

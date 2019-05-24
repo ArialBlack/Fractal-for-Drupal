@@ -1,0 +1,13 @@
+label: 'Text'
+context:
+  content: "<h3>Velit esse cillum dolore</h3><p>Lorem ipsum dolor sit amet, <a href='#''>consectetur adipiscing elit</a>,
+           sed do eiusmod tempor &#x25B6; <strong>incididunt ut labore</strong> et dolore magna aliqua. Ut enim ad minim veniam,
+           quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute
+           irure dolor in <u>reprehenderit in voluptate</u> velit esse cillum dolore eu fugiat nulla pariatur.
+           Excepteur sint occaecat cupidatat non proident, <i>sunt in culpa qui officia deserunt mollit
+           anim id est</i> laborum.</p>"
+variants:
+- name: 'Ch'
+  context:
+    content: '<p>百度地图JavaScript API是一套由JavaScript语言编写的应用程序接口，可帮助您在网站中构建功能丰富、交互性强的地图应用，支持PC端和移动端基于浏览器的地图应用开发，且支持HTML5特性的地图开发。
+                 百度地图JavaScript API支持HTTP和HTTPS，免费对外开放，可直接使用。接口使用无次数限制。在使用前，您需先申请密钥（ak）才可使用。在您使用百度地图JavaScript API之前，请先阅读百度地图API使用条款。任何非营利性应用请直接使用，商业应用请参考使用须知。</p>'

@@ -1,0 +1,15 @@
+label: Preview
+context:
+  dir: 'ltr'
+  default_language: 'en'
+  base_styles:
+  - /assets/styles/app.css
+  base_scripts:
+  - /assets/scripts/utils/jquery-3.2.1.js
+  - /assets/scripts/utils/modernizr.js
+  - /assets/scripts/scriptsinit.js
+  - /assets/scripts/app.js
+variants:
+- name: 'Ch'
+  context:
+    default_language: 'zh-hans'

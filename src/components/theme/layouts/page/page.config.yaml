@@ -1,0 +1,12 @@
+label: Page
+context:
+  page:
+    content: '$homepage-layout'
+  is_front: false
+variants:
+- name: 'Home Ch'
+  preview: "@preview--ch"
+  context:
+    page:
+      content: '$homepage-layout--ch'
+    is_front: true

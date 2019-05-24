@@ -1,0 +1,14 @@
+# Folders
+*node_modules*
+*bower_components*
+build
+tmp
+.history
+
+# Files
+_sprite-png.scss
+npm-debug.log
+.DS_Store
+.publish
+yarn.lock
+.idea/
